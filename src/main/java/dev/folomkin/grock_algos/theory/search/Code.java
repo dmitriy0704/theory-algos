@@ -1,4 +1,4 @@
-package dev.folomkin.search;
+package dev.folomkin.grock_algos.theory.search;
 
 // Binary search:
 
